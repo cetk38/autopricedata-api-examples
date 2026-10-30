@@ -1,0 +1,19 @@
+{
+  "vehicle": {
+    "category": "passenger_car",
+    "make": "sample_make",
+    "model": "sample_model",
+    "model_year": 2021,
+    "trim": "mid_trim",
+    "mileage_km": 48000,
+    "fuel_type": "gasoline",
+    "transmission": "automatic",
+    "condition": "good",
+    "damage_record": "none"
+  },
+  "market": {
+    "country": "US",
+    "region": "texas"
+  },
+  "pricing_rule_id": "standard_purchase"
+}

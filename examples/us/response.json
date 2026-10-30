@@ -1,0 +1,22 @@
+{
+  "demo": true,
+  "valuation_id": "val_demo_0001",
+  "currency": "USD",
+  "market_reference": {
+    "value": 17000,
+    "range": {
+      "low": 16200,
+      "high": 17800
+    },
+    "basis": "estimated_market_reference"
+  },
+  "business_offer": {
+    "pricing_rule_id": "standard_purchase",
+    "rule": {
+      "type": "percentage_below_reference",
+      "value": 15
+    },
+    "amount": 14450
+  },
+  "notice": "Estimated value; not a final sale price or a binding purchase offer."
+}

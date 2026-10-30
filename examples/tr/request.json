@@ -1,0 +1,19 @@
+{
+  "vehicle": {
+    "category": "passenger_car",
+    "make": "ornek_marka",
+    "model": "ornek_model",
+    "model_year": 2021,
+    "trim": "orta_donanim",
+    "mileage_km": 48000,
+    "fuel_type": "gasoline",
+    "transmission": "automatic",
+    "condition": "good",
+    "damage_record": "none"
+  },
+  "market": {
+    "country": "TR",
+    "region": "istanbul"
+  },
+  "pricing_rule_id": "standart_alim"
+}

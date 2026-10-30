@@ -1,0 +1,22 @@
+{
+  "demo": true,
+  "valuation_id": "val_demo_0001",
+  "currency": "TRY",
+  "market_reference": {
+    "value": 1000000,
+    "range": {
+      "low": 955000,
+      "high": 1045000
+    },
+    "basis": "estimated_market_reference"
+  },
+  "business_offer": {
+    "pricing_rule_id": "standart_alim",
+    "rule": {
+      "type": "percentage_below_reference",
+      "value": 5
+    },
+    "amount": 950000
+  },
+  "notice": "Tahmini değerdir; kesin satış fiyatı veya bağlayıcı satın alma teklifi değildir."
+}
